@@ -18,7 +18,12 @@ El script generará un nuevo archivo Excel llamado Nuevas_Medidas.xlsx con una c
 - Pandas
 - OpenPyXL
   
-Instala pandas y OPenPyXL utilizando el archivo Requirements.txt si aún no tienes nada de lo anterior instalado
+Instala pandas y OPenPyXL utilizando el archivo Requirements.txt si aún no tienes nada de lo anterior instalado, simplemente ejecuta el siguiente comando en la terminal:
+
+
+pip install -r requirements.txt 
+
+
 
 # 📝 Nota
 Este script es útil para cualquier situación en la que necesites convertir medidas de centímetros a pulgadas y trabajar con datos almacenados en un archivo Excel.
